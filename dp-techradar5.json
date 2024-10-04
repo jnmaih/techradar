@@ -415,6 +415,21 @@
       "title": "MySQL",
       "quadrant": "datastores"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "hold",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Oracle DB"
+        }
+      ],
+      "url": "https://www.oracle.com/database/",
+      "key": "Oracle DB",
+      "id": "oracledb",
+      "title": "Oracle DB",
+      "quadrant": "datastores"
+    },  
 
     {
       "timeline": [
