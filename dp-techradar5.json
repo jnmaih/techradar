@@ -118,7 +118,7 @@
     {
       "timeline": [
         {
-          "moved": 0,
+          "moved": 1,
           "ringId": "assess",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "YARN Berry"
@@ -178,7 +178,7 @@
     {
       "timeline": [
         {
-          "moved": 0,
+          "moved": 1,
           "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "Vite"
@@ -188,6 +188,21 @@
       "key": "Vite",
       "id": "vite",
       "title": "Vite",
+      "quadrant": "datamanagement"
+    },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Jest"
+        }
+      ],
+      "url": "https://jestjs.io/",
+      "key": "Jest",
+      "id": "jest",
+      "title": "Jest",
       "quadrant": "datamanagement"
     },  
 
