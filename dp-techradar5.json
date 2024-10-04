@@ -160,6 +160,21 @@
       "title": "NX Workspace",
       "quadrant": "datamanagement"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Webpack"
+        }
+      ],
+      "url": "https://webpack.js.org/",
+      "key": "Webpack",
+      "id": "webpack",
+      "title": "Webpack",
+      "quadrant": "datamanagement"
+    },  
 
     {
       "timeline": [
