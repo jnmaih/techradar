@@ -220,6 +220,21 @@
       "title": "Jasmine",
       "quadrant": "datamanagement"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "hold",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Karma"
+        }
+      ],
+      "url": "https://karma-runner.github.io",
+      "key": "Karma",
+      "id": "Karma",
+      "title": "karma",
+      "quadrant": "datamanagement"
+    },  
 
     {
       "timeline": [
