@@ -265,6 +265,21 @@
       "title": "React",
       "quadrant": "languages"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Vue"
+        }
+      ],
+      "url": "https://vuejs.org",
+      "key": "Vue",
+      "id": "vue",
+      "title": "Vue",
+      "quadrant": "languages"
+    },  
 
     {
       "timeline": [
