@@ -670,6 +670,21 @@
       "title": "GraphQL",
       "quadrant": "languages"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Java"
+        }
+      ],
+      "url": "https://www.java.com/",
+      "key": "Java",
+      "id": "java",
+      "title": "Java",
+      "quadrant": "languages"
+    },  
 
     {
       "timeline": [
