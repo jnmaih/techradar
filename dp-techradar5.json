@@ -340,6 +340,21 @@
       "title": "Bun",
       "quadrant": "datamanagement"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "AWS DynamoDB"
+        }
+      ],
+      "url": "https://aws.amazon.com/dynamodb/",
+      "key": "AWS DynamoDB",
+      "id": "awsdynamodb",
+      "title": "AWS DynamoDB",
+      "quadrant": "datastores"
+    },  
 
     {
       "timeline": [
