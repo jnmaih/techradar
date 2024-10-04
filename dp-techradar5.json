@@ -550,6 +550,21 @@
       "title": "Hashicorp Vault",
       "quadrant": "infrastructure"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "GitOps (Flux)"
+        }
+      ],
+      "url": "https://fluxcd.io/",
+      "key": "GitOps (Flux)",
+      "id": "gitopsflux",
+      "title": "GitOps (Flux)",
+      "quadrant": "infrastructure"
+    },  
 
     {
       "timeline": [
