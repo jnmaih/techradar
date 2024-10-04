@@ -74,7 +74,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adapt",
+          "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "Dotnet core"
         }
@@ -89,7 +89,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adapt",
+          "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "Airflow"
         }
