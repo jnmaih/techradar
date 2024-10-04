@@ -745,7 +745,22 @@
       "title": "OpenAPI (Swagger)",
       "quadrant": "languages"
     },  
-    
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Python"
+        }
+      ],
+      "url": "https://www.python.org/",
+      "key": "Python",
+      "id": "python",
+      "title": "Python",
+      "quadrant": "languages"
+    },  
+        
     {
       "timeline": [
         {
