@@ -775,7 +775,22 @@
       "title": "Prometheus",
       "quadrant": "infrastructure"
     },  
-                
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Thanos"
+        }
+      ],
+      "url": "https://thanos.io",
+      "key": "Thanos",
+      "id": "thanos",
+      "title": "Thanos",
+      "quadrant": "infrastructure"
+    },  
+          
     {
       "timeline": [
         {
