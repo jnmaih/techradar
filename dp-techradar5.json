@@ -98,8 +98,23 @@
       "key": "Airflow",
       "id": "airflow",
       "title": "Airflow",
-      "quadrant": "datastores"
-    },        
+      "quadrant": "datamanagement"
+    },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adapt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "YARN Classic"
+        }
+      ],
+      "url": "https://classic.yarnpkg.com",
+      "key": "YARN Classic",
+      "id": "yarnclassic",
+      "title": "YARN classic",
+      "quadrant": "datamanagement"
+    },      
     {
       "timeline": [
         {
