@@ -385,6 +385,21 @@
       "title": "Elasticsearch",
       "quadrant": "datastores"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Mongo DB"
+        }
+      ],
+      "url": "https://www.mongodb.com/",
+      "key": "Mongo DB",
+      "id": "mongodb",
+      "title": "Mongo DB",
+      "quadrant": "datastores"
+    },  
 
     {
       "timeline": [
