@@ -790,7 +790,22 @@
       "title": "Thanos",
       "quadrant": "infrastructure"
     },  
-          
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Mimir"
+        }
+      ],
+      "url": "https://grafana.com/oss/mimir/",
+      "key": "Mimir",
+      "id": "mimir",
+      "title": "Mimir",
+      "quadrant": "infrastructure"
+    },  
+
     {
       "timeline": [
         {
