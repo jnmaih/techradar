@@ -1,0 +1,75 @@
+{
+  "rings": [
+    {
+      "id": "adopt",
+      "name": "ADOPT",
+      "color": "#5ba300"
+    },
+    {
+      "id": "trial",
+      "name": "TRIAL",
+      "color": "#009eb0"
+    },
+    {
+      "id": "assess",
+      "name": "ASSESS",
+      "color": "#c7ba00"
+    },
+    {
+      "id": "hold",
+      "name": "HOLD",
+      "color": "#e09b96"
+    }
+  ],
+  "quadrants": [
+    {
+      "id": "languages",
+      "name": "Languages, Frameworks, Libs"
+    },
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure, CD"
+    },
+    {
+      "id": "datastores",
+      "name": "Datastores"
+    },
+    {
+      "id": "datamanagement",
+      "name": "Data Management, Tooling, CI"
+    }
+  ],
+  "entries": [
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Parquet"
+        }
+      ],
+      "url": "https://parquet.apache.org/",
+      "key": "Parquet",
+      "id": "parquet",
+      "title": "Parquet",
+      "quadrant": "datamanagement"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Pact"
+        }
+      ],
+      "url": "https://docs.pact.io/pact_broker",
+      "key": "Pact",
+      "id": "pact",
+      "title": "Pact",
+      "quadrant": "infrastructure"
+    }
+
+  ]
+}
