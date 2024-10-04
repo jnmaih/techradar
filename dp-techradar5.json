@@ -580,6 +580,21 @@
       "title": "GitOps (ArgoCD)",
       "quadrant": "infrastructure"
     },  
+    {
+      "timeline": [
+        {
+          "moved": -1,
+          "ringId": "hold",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Docker Compose"
+        }
+      ],
+      "url": "https://github.com/docker/compose",
+      "key": "Docker Compose",
+      "id": "dockercompose",
+      "title": "Docker Compose",
+      "quadrant": "infrastructure"
+    },  
 
     {
       "timeline": [
