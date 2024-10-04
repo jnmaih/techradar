@@ -370,6 +370,21 @@
       "title": "AWS S3",
       "quadrant": "datastores"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "hold",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Elasticsearch"
+        }
+      ],
+      "url": "https://www.elastic.co/",
+      "key": "Elasticsearch",
+      "id": "elasticsearch",
+      "title": "Elasticsearch",
+      "quadrant": "datastores"
+    },  
 
     {
       "timeline": [
