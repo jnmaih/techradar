@@ -565,6 +565,21 @@
       "title": "GitOps (Flux)",
       "quadrant": "infrastructure"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "GitOps (ArgoCD)"
+        }
+      ],
+      "url": "https://argo-cd.readthedocs.io/en/stable/",
+      "key": "GitOps (ArgoCD)",
+      "id": "gitopsflux",
+      "title": "GitOps (ArgoCD)",
+      "quadrant": "infrastructure"
+    },  
 
     {
       "timeline": [
