@@ -69,6 +69,21 @@
       "id": "rabbitmq",
       "title": "RabbitMQ",
       "quadrant": "datastores"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adapt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Dotnet core"
+        }
+      ],
+      "url": "https://dotnet.microsoft.com/en-us/download/dotnet",
+      "key": "Dotnet core",
+      "id": "dotnetcore",
+      "title": "Dotnet core",
+      "quadrant": "languages"
     },    
     {
       "timeline": [
