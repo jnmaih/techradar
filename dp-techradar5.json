@@ -59,6 +59,21 @@
       "timeline": [
         {
           "moved": 0,
+          "ringId": "trial",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "RabbitMQ"
+        }
+      ],
+      "url": "https://www.rabbitmq.com/",
+      "key": "RabbitMQ",
+      "id": "rabbitmq",
+      "title": "RabbitMQ",
+      "quadrant": "datastores"
+    },    
+    {
+      "timeline": [
+        {
+          "moved": 0,
           "ringId": "assess",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "Pact"
@@ -70,6 +85,5 @@
       "title": "Pact",
       "quadrant": "infrastructure"
     }
-
   ]
 }
