@@ -241,13 +241,28 @@
           "moved": -1,
           "ringId": "hold",
           "date": "2020-08-06T00:00:00.000Z",
-          "description": "Karma"
+          "description": "Angular"
         }
       ],
       "url": "https://angular.io/",
       "key": "Angular",
-      "id": "Angular",
-      "title": "angular",
+      "id": "angular",
+      "title": "Angular",
+      "quadrant": "languages"
+    },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "hold",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "React"
+        }
+      ],
+      "url": "https://react.dev/",
+      "key": "React",
+      "id": "react",
+      "title": "React",
       "quadrant": "languages"
     },  
 
