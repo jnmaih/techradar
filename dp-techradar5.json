@@ -640,6 +640,21 @@
       "title": "OpenTelementry",
       "quadrant": "infrastructure"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "OpenSearch"
+        }
+      ],
+      "url": "https://opensearch.org/",
+      "key": "OpenSearch",
+      "id": "opensearch",
+      "title": "OpenSearch",
+      "quadrant": "datastores"
+    },  
 
     {
       "timeline": [
