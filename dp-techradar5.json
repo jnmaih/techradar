@@ -445,6 +445,21 @@
       "title": "PostgreSQL",
       "quadrant": "datastores"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Redis"
+        }
+      ],
+      "url": "https://redis.io/",
+      "key": "Redis",
+      "id": "redis",
+      "title": "Redis",
+      "quadrant": "datastores"
+    },  
 
     {
       "timeline": [
