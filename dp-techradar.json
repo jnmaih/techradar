@@ -1,34 +1,44 @@
 {
-    "quadrants": [{
-            "name": "Languages, Frameworks, Libs"
-        },
-        {
-            "name": "Infrastructure, CD"
-        },
-        {
-            "name": "Datastores"
-        },
-        {
-            "name": "Data Management, Tooling, CI"
-        }
-    ],
-    "rings": [{
-            "name": "ADOPT",
-            "color": "#5ba300"
-        },
-        {
-            "name": "TRIAL",
-            "color": "#009eb0"
-        },
-        {
-            "name": "ASSESS",
-            "color": "#c7ba00"
-        },
-        {
-            "name": "HOLD",
-            "color": "#e09b96"
-        }
-    ],
+  "rings": [
+    {
+      "id": "use",
+      "name": "USE",
+      "color": "#93c47d"
+    },
+    {
+      "id": "trial",
+      "name": "TRIAL",
+      "color": "#93d2c2"
+    },
+    {
+      "id": "assess",
+      "name": "ASSESS",
+      "color": "#fbdb84"
+    },
+    {
+      "id": "hold",
+      "name": "HOLD",
+      "color": "#efafa9"
+    }
+  ],
+  "quadrants": [
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure"
+    },
+    {
+      "id": "frameworks",
+      "name": "Frameworks"
+    },
+    {
+      "id": "languages",
+      "name": "Languages"
+    },
+    {
+      "id": "process",
+      "name": "Process"
+    }
+  ],
     "print_layout": true,
     "links_in_new_tabs": true,
     "entries": [{
