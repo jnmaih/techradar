@@ -610,6 +610,21 @@
       "title": "Backstage",
       "quadrant": "infrastructure"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Kubernetes"
+        }
+      ],
+      "url": "https://kubernetes.io/",
+      "key": "Kubernetes",
+      "id": "kubernetes",
+      "title": "Kubernetes",
+      "quadrant": "infrastructure"
+    },  
 
     {
       "timeline": [
