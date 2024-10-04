@@ -595,6 +595,21 @@
       "title": "Docker Compose",
       "quadrant": "infrastructure"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 1,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Backstage"
+        }
+      ],
+      "url": "https://backstage.io/",
+      "key": "Backstage",
+      "id": "backstage",
+      "title": "Backstage",
+      "quadrant": "infrastructure"
+    },  
 
     {
       "timeline": [
