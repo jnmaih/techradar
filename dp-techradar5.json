@@ -475,6 +475,21 @@
       "title": "AWS CloudFormation",
       "quadrant": "infrastructure"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "AWS Lambda"
+        }
+      ],
+      "url": "https://aws.amazon.com/lambda/",
+      "key": "AWS Lambda",
+      "id": "awslambda",
+      "title": "AWS Lambda",
+      "quadrant": "infrastructure"
+    },  
 
     {
       "timeline": [
