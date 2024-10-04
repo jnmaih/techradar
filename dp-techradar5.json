@@ -254,7 +254,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "hold",
+          "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "React"
         }
@@ -309,6 +309,21 @@
       "id": "nodejs",
       "title": "Node JS",
       "quadrant": "languages"
+    },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Deno"
+        }
+      ],
+      "url": "https://deno.com/",
+      "key": "Deno",
+      "id": "deno",
+      "title": "Deno",
+      "quadrant": "datamanagement"
     },  
 
     {
