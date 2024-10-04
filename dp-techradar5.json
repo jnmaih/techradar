@@ -715,7 +715,21 @@
       "title": "TypeScript",
       "quadrant": "languages"
     },  
-
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Kotlin"
+        }
+      ],
+      "url": "https://kotlinlang.org/",
+      "key": "Kotlin",
+      "id": "kotlin",
+      "title": "Kotlin",
+      "quadrant": "languages"
+    },  
     {
       "timeline": [
         {
