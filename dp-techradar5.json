@@ -685,6 +685,21 @@
       "title": "Java",
       "quadrant": "languages"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "hold",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "JavaScript"
+        }
+      ],
+      "url": "https://javascript.info/",
+      "key": "JavaScript",
+      "id": "javascript",
+      "title": "JavaScript",
+      "quadrant": "languages"
+    },  
 
     {
       "timeline": [
