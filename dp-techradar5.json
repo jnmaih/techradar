@@ -729,7 +729,23 @@
       "id": "kotlin",
       "title": "Kotlin",
       "quadrant": "languages"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "OpenAPI (Swagger)"
+        }
+      ],
+      "url": "https://www.openapis.org/",
+      "key": "OpenAPI (Swagger)",
+      "id": "openapi",
+      "title": "OpenAPI (Swagger)",
+      "quadrant": "languages"
     },  
+    
     {
       "timeline": [
         {
