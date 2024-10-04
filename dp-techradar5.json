@@ -505,6 +505,21 @@
       "title": "Docker",
       "quadrant": "infrastructure"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Terraform"
+        }
+      ],
+      "url": "https://www.terraform.io/",
+      "key": "Terraform",
+      "id": "terraform",
+      "title": "Terraform",
+      "quadrant": "infrastructure"
+    },  
 
     {
       "timeline": [
