@@ -130,6 +130,21 @@
       "title": "YARN Berry",
       "quadrant": "datamanagement"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "hold",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "NPM"
+        }
+      ],
+      "url": "https://www.npmjs.com/",
+      "key": "NPM",
+      "id": "npm",
+      "title": "NPM",
+      "quadrant": "datamanagement"
+    },  
 
     {
       "timeline": [
