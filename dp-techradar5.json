@@ -700,6 +700,21 @@
       "title": "JavaScript",
       "quadrant": "languages"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "TypeScript"
+        }
+      ],
+      "url": "https://www.typescriptlang.org/",
+      "key": "TypeScript",
+      "id": "typescript",
+      "title": "TypeScript",
+      "quadrant": "languages"
+    },  
 
     {
       "timeline": [
