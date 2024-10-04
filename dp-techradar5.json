@@ -313,7 +313,7 @@
     {
       "timeline": [
         {
-          "moved": 0,
+          "moved": 1,
           "ringId": "assess",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "Deno"
@@ -323,6 +323,21 @@
       "key": "Deno",
       "id": "deno",
       "title": "Deno",
+      "quadrant": "datamanagement"
+    },  
+    {
+      "timeline": [
+        {
+          "moved": 1,
+          "ringId": "assess",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Bun"
+        }
+      ],
+      "url": "https://bun.sh/",
+      "key": "Bun",
+      "id": "bun",
+      "title": "Bun",
       "quadrant": "datamanagement"
     },  
 
