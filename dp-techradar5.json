@@ -104,7 +104,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adapt",
+          "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "YARN Classic"
         }
@@ -115,6 +115,22 @@
       "title": "YARN classic",
       "quadrant": "datamanagement"
     },      
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "YARN Berry"
+        }
+      ],
+      "url": "https://yarnpkg.com/",
+      "key": "YARN Berry",
+      "id": "yarnberry",
+      "title": "YARN Berry",
+      "quadrant": "datamanagement"
+    },  
+
     {
       "timeline": [
         {
