@@ -430,6 +430,21 @@
       "title": "Oracle DB",
       "quadrant": "datastores"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "PostgreSQL"
+        }
+      ],
+      "url": "https://www.postgresql.org/",
+      "key": "PostgreSQL",
+      "id": "postgresql",
+      "title": "PostgreSQL",
+      "quadrant": "datastores"
+    },  
 
     {
       "timeline": [
