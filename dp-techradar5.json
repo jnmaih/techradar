@@ -235,6 +235,21 @@
       "title": "karma",
       "quadrant": "datamanagement"
     },  
+    {
+      "timeline": [
+        {
+          "moved": -1,
+          "ringId": "hold",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Karma"
+        }
+      ],
+      "url": "https://angular.io/",
+      "key": "Angular",
+      "id": "Angular",
+      "title": "angular",
+      "quadrant": "languages"
+    },  
 
     {
       "timeline": [
