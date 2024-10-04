@@ -205,6 +205,21 @@
       "title": "Jest",
       "quadrant": "datamanagement"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "hold",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Jasmine"
+        }
+      ],
+      "url": "https://jasmine.github.io/",
+      "key": "Jasmine",
+      "id": "jasmine",
+      "title": "Jasmine",
+      "quadrant": "datamanagement"
+    },  
 
     {
       "timeline": [
