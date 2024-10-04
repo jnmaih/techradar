@@ -625,6 +625,21 @@
       "title": "Kubernetes",
       "quadrant": "infrastructure"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "OpenTelementry"
+        }
+      ],
+      "url": "https://opentelemetry.io/",
+      "key": "OpenTelementry",
+      "id": "opentelementry",
+      "title": "OpenTelementry",
+      "quadrant": "infrastructure"
+    },  
 
     {
       "timeline": [
