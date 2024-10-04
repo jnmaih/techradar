@@ -280,6 +280,21 @@
       "title": "Vue",
       "quadrant": "languages"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Stencil"
+        }
+      ],
+      "url": "https://stenciljs.com/",
+      "key": "Stencil",
+      "id": "stencil",
+      "title": "Stencil",
+      "quadrant": "languages"
+    },  
 
     {
       "timeline": [
