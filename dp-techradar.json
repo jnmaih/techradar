@@ -1,130 +1,452 @@
 {
-  "rings": [
-    {
-      "id": "use",
-      "name": "USE",
-      "color": "#93c47d"
-    },
-    {
-      "id": "trial",
-      "name": "TRIAL",
-      "color": "#93d2c2"
-    },
-    {
-      "id": "assess",
-      "name": "ASSESS",
-      "color": "#fbdb84"
-    },
-    {
-      "id": "hold",
-      "name": "HOLD",
-      "color": "#efafa9"
-    }
-  ],
-  "quadrants": [
-    {
-      "id": "infrastructure",
-      "name": "Infrastructure"
-    },
-    {
-      "id": "frameworks",
-      "name": "Frameworks"
-    },
-    {
-      "id": "languages",
-      "name": "Languages"
-    },
-    {
-      "id": "process",
-      "name": "Process"
-    }
-  ],
-  "entries": [
-    {
-      "timeline": [
+    "quadrants": [{
+            "name": "Languages, Frameworks, Libs"
+        },
         {
-          "moved": 0,
-          "ringId": "use",
-          "date": "2020-08-06T00:00:00.000Z",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+            "name": "Infrastructure, CD"
+        },
+        {
+            "name": "Datastores"
+        },
+        {
+            "name": "Data Management, Tooling, CI"
         }
-      ],
-      "url": "#",
-      "key": "javascript",
-      "id": "javascript",
-      "title": "JavaScript",
-      "quadrant": "languages"
-    },
-    {
-      "timeline": [
+    ],
+    "rings": [{
+            "name": "ADOPT",
+            "color": "#5ba300"
+        },
         {
-          "moved": 0,
-          "ringId": "use",
-          "date": "2020-08-06T00:00:00.000Z",
-          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+            "name": "TRIAL",
+            "color": "#009eb0"
+        },
+        {
+            "name": "ASSESS",
+            "color": "#c7ba00"
+        },
+        {
+            "name": "HOLD",
+            "color": "#e09b96"
         }
-      ],
-      "url": "#",
-      "key": "typescript",
-      "id": "typescript",
-      "title": "TypeScript",
-      "quadrant": "languages"
-    },
-    {
-      "timeline": [
+    ],
+    "print_layout": true,
+    "links_in_new_tabs": true,
+    "entries": [{
+            "quadrant": 3,
+            "ring": 2,
+            "label": "Parquet",
+            "link": "https://parquet.apache.org/",
+            "active": true,
+            "moved": 0
+        },
         {
-          "moved": 0,
-          "ringId": "use",
-          "date": "2020-08-06T00:00:00.000Z"
+            "quadrant": 1,
+            "ring": 2,
+            "label": "Pact",
+            "link": "https://docs.pact.io/pact_broker",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 2,
+            "ring": 1,
+            "label": "RabbitMQ",
+            "link": "https://www.rabbitmq.com/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "Dotnet core",
+            "link": "https://dotnet.microsoft.com/en-us/download/dotnet",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 3,
+            "ring": 0,
+            "label": "Airflow",
+            "link": "https://airflow.apache.org/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 3,
+            "ring": 0,
+            "label": "YARN Classic",
+            "link": "https://classic.yarnpkg.com",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 3,
+            "ring": 2,
+            "label": "YARN Berry",
+            "link": "https://yarnpkg.com/",
+            "active": true,
+            "moved": 1
+        },
+        {
+            "quadrant": 3,
+            "ring": 3,
+            "label": "NPM",
+            "link": "https://www.npmjs.com/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 3,
+            "ring": 0,
+            "label": "NX Workspace",
+            "link": "https://nx.dev",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 3,
+            "ring": 0,
+            "label": "Webpack",
+            "link": "https://webpack.js.org/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 3,
+            "ring": 1,
+            "label": "Vite",
+            "link": "https://vitejs.dev/",
+            "active": true,
+            "moved": 1
+        },
+        {
+            "quadrant": 3,
+            "ring": 0,
+            "label": "Jest",
+            "link": "https://jestjs.io/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 3,
+            "ring": 3,
+            "label": "Jasmine",
+            "link": "https://jasmine.github.io/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 3,
+            "ring": 3,
+            "label": "Karma",
+            "link": "https://karma-runner.github.io",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 3,
+            "label": "Angular",
+            "link": "https://angular.io/",
+            "active": true,
+            "moved": -1
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "React",
+            "link": "https://react.dev/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 2,
+            "label": "Vue",
+            "link": "https://vuejs.org",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "Stencil.js",
+            "link": "https://stenciljs.com/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "Node.js",
+            "link": "https://stenciljs.com/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 3,
+            "ring": 2,
+            "label": "Deno",
+            "link": "https://deno.com/",
+            "active": true,
+            "moved": 1
+        },
+        {
+            "quadrant": 3,
+            "ring": 2,
+            "label": "Bun",
+            "link": "https://bun.sh/",
+            "active": true,
+            "moved": 1
+        },
+        {
+            "quadrant": 2,
+            "ring": 1,
+            "label": "AWS DynamoDB",
+            "link": "https://aws.amazon.com/dynamodb/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 2,
+            "ring": 0,
+            "label": "AWS S3",
+            "link": "https://aws.amazon.com/s3/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 2,
+            "ring": 3,
+            "label": "Elasticsearch",
+            "link": "https://www.elastic.co/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 2,
+            "ring": 0,
+            "label": "MongoDB",
+            "link": "https://www.mongodb.com/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 2,
+            "ring": 3,
+            "label": "MySQL",
+            "link": "https://www.mysql.com/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 2,
+            "ring": 3,
+            "label": "Oracle DB",
+            "link": "https://www.oracle.com/database/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 2,
+            "ring": 2,
+            "label": "PostgreSQL",
+            "link": "https://www.postgresql.org/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 2,
+            "ring": 0,
+            "label": "Redis",
+            "link": "https://redis.io/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 2,
+            "label": "AWS CloudFormation",
+            "link": "https://aws.amazon.com/cloudformation/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 2,
+            "label": "AWS Lambda",
+            "link": "https://aws.amazon.com/lambda/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 0,
+            "label": "Docker",
+            "link": "https://www.docker.com/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 0,
+            "label": "Terraform",
+            "link": "https://www.terraform.io/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 0,
+            "label": "Ansible",
+            "link": "https://www.ansible.com/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 0,
+            "label": "Hashicorp Vault",
+            "link": "https://www.vaultproject.io/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 0,
+            "label": "GitOps (Flux)",
+            "link": "https://fluxcd.io/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 0,
+            "label": "GitOps (ArgoCD)",
+            "link": "https://argo-cd.readthedocs.io/en/stable/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 3,
+            "label": "Docker Compose",
+            "link": "https://github.com/docker/compose",
+            "active": true,
+            "moved": -1
+        },
+        {
+            "quadrant": 1,
+            "ring": 1,
+            "label": "Backstage",
+            "link": "https://backstage.io/",
+            "active": true,
+            "moved": 1
+        },
+        {
+            "quadrant": 1,
+            "ring": 0,
+            "label": "Kubernetes",
+            "link": "https://kubernetes.io/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 0,
+            "label": "OpenTelementry",
+            "link": "https://opentelemetry.io/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 2,
+            "ring": 0,
+            "label": "OpenSearch",
+            "link": "https://opensearch.org/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "GraphQL",
+            "link": "https://graphql.org/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "Java",
+            "link": "https://www.java.com/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 3,
+            "label": "JavaScript",
+            "link": "https://javascript.info/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "TypeScript",
+            "link": "https://www.typescriptlang.org/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "Kotlin",
+            "link": "https://kotlinlang.org/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "OpenAPI (Swagger)",
+            "link": "https://www.openapis.org/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "Python",
+            "link": "https://www.python.org/",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 0,
+            "label": "Prometheus",
+            "link": "https://prometheus.io",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 2,
+            "label": "Thanos",
+            "link": "https://thanos.io",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 2,
+            "label": "Mimir",
+            "link": "https://grafana.com/oss/mimir/",
+            "active": true,
+            "moved": 0
         }
-      ],
-      "url": "#",
-      "key": "webpack",
-      "id": "webpack",
-      "title": "Webpack",
-      "quadrant": "frameworks"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "use",
-          "date": "2020-08-06T00:00:00.000Z"
-        }
-      ],
-      "url": "#",
-      "key": "react",
-      "id": "react",
-      "title": "React",
-      "quadrant": "frameworks"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "use",
-          "date": "2020-08-06T00:00:00.000Z"
-        }
-      ],
-      "url": "#",
-      "key": "code-reviews",
-      "id": "code-reviews",
-      "title": "Code Reviews",
-      "quadrant": "process"
-    },
-        {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "use",
-          "date": "2021-02-09T00:00:00.000Z"
-        }
-      ],
-      "url": "#",
-      "key": "roadie",
-      "id": "roadie",
-      "title": "Managed Backstage",
-      "quadrant": "infrastructure"
-    }
-  ]
-}
+    ]
+  }
+    
