@@ -535,6 +535,21 @@
       "title": "Ansible",
       "quadrant": "infrastructure"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Hashicorp Vault"
+        }
+      ],
+      "url": "https://www.vaultproject.io/",
+      "key": "Hashicorp Vault",
+      "id": "hashicorpvault",
+      "title": "Hashicorp Vault",
+      "quadrant": "infrastructure"
+    },  
 
     {
       "timeline": [
