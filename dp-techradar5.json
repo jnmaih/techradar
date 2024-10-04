@@ -655,6 +655,21 @@
       "title": "OpenSearch",
       "quadrant": "datastores"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "GraphQL"
+        }
+      ],
+      "url": "https://graphql.org/",
+      "key": "GraphQL",
+      "id": "graphql",
+      "title": "GraphQL",
+      "quadrant": "languages"
+    },  
 
     {
       "timeline": [
