@@ -145,6 +145,21 @@
       "title": "NPM",
       "quadrant": "datamanagement"
     },  
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "NX Workspace"
+        }
+      ],
+      "url": "https://nx.dev",
+      "key": "NX Workspace",
+      "id": "nxworkspace",
+      "title": "NX Workspace",
+      "quadrant": "datamanagement"
+    },  
 
     {
       "timeline": [
